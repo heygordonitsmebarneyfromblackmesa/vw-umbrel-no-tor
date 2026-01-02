@@ -1,22 +1,18 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: dani-garcia-vaultwarden
+name: Vaultwarden
+tagline: "An unofficial Bitwarden compatible server"
 icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
-port: 4000
+category: Files & Productivity
+version: "1.35.1"
+port: 8000
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
+  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+developer: Daniel García
+website: https://danigarcia.dev
+submitter: JakTo3s
+submission: 
+repo: 
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
