@@ -11,15 +11,15 @@ description: >-
 developer: Daniel García
 website: https://danigarcia.dev
 submitter: JakTo3s
-submission: 
-repo: 
+submission: https://github.com/heygordonitsmebarneyfromblackmesa/vw-umbrel-no-tor
+repo: https://github.com/heygordonitsmebarneyfromblackmesa/vw-umbrel-no-tor
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://elest.io/images/softwares/66/screenshot1.jpg
+  - https://elest.io/images/softwares/66/screenshot2.jpg
+  - https://etke.cc/img/extra-services/vaultwarden/vaultwarden-screenshot.webp
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Fixed issue with applications being logged out after upgrading due to changes to refresh token parsing, Updated web vault to 2025.12.1, and Correctly publish the alpine tag, which was missing in 1.35.0
 dependencies: []
 path: ""
 defaultUsername: ""
