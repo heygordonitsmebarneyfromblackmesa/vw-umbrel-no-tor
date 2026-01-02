@@ -2,7 +2,7 @@ manifestVersion: 1
 id: dani-garcia-vaultwarden
 name: Vaultwarden
 tagline: "An unofficial Bitwarden compatible server"
-icon: https://svgur.com/i/mvA.svg
+icon: https://raw.githubusercontent.com/heygordonitsmebarneyfromblackmesa/vw-umbrel-no-tor/refs/heads/master/Vaultwarden.svg
 category: Password Managers
 version: "1.35.1"
 port: 8000
